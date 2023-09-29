@@ -1,3 +1,5 @@
+package Github;
+
 public class example1 {
     //Example 1:   Put "*" between 2 consecutive characters and to the end in a String.
     //             For example -> Hello ==> H*e*l*l*o*

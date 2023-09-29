@@ -1,3 +1,5 @@
+package Github;
+
 public class firstGitFile {
     public static void main(String[] args) {
 
