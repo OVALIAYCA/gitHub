@@ -1,4 +1,4 @@
-package Proje_Sorulari;
+package Github;
 
 import java.util.ArrayList;
 import java.util.Scanner;
