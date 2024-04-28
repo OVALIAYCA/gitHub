@@ -1,4 +1,4 @@
-package Github;
+package FarmerMarket;
 
 import java.util.Scanner;
 
